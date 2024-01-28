@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo Welcome to:
 echo M
 echo A
